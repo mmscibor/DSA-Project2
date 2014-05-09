@@ -3,10 +3,10 @@ Sorting Algorithms
 
 The project attempts to sort 4 different data sets. Each data set consists of strings representing numbers, but each data set has certain specifications for how those strings are constructed. For instance, the first data set, T1, consists of 100,000 randomly generated elements with 20 digits followed by a decimal point, then 20 more digits. Leading and trailing 0s are removed from the numbers. The cases are as follows:
 
-  T1: Described Above
-  T2: Same as T1, except with 1,000,000 elements
-  T3: Same as T2, except with 3 digits before and after the decimal
-  T4: Same as T2, except close to sorted
+    T1: Described Above
+    T2: Same as T1, except with 1,000,000 elements
+    T3: Same as T2, except with 3 digits before and after the decimal
+    T4: Same as T2, except close to sorted
   
 In order to sort these data sets, the first few entries were considered. In this way, I attempt to figure out which of the above 4 cases the particular data set belongs to. The following sorting algorithms were used for each of the data sets.
 
